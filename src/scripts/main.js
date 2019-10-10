@@ -27,3 +27,7 @@ const beatles = {
         }
     ]
 }
+
+// Output the following value to the console.
+
+// Paul McCartney was in the Beatles from 1960 to 1970. He was born in 1942. He contributed heavily to the Magical Myster Tour Album.
